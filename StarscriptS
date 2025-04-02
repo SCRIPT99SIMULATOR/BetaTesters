@@ -1,4 +1,3 @@
-Loadstring:::SCRIPT STARS
 
 print(Status🟢)
 print(Working)
@@ -40,9 +39,6 @@ print(Working)
 
 
 
-ifdontwork(tryagain)
-ifdontwork(down)
+
 
 loadstring(game:HttpGet('https://raw.githubusercontent.com/tobi437a/Scripts/refs/heads/main/0cc8fc259add576d1f9cf2f9.lua'))()
-
-ifworks()((
